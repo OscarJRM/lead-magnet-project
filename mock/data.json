@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "source": "WhatsApp",
+      "contactedAt": "2024-12-01T10:00:00Z",
+      "sale": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "source": "Messenger",
+      "contactedAt": "2024-12-02T12:30:00Z",
+      "sale": false
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "source": "WhatsApp",
+      "contactedAt": "2024-12-03T14:45:00Z",
+      "sale": true
+    }
+  ]
+  
